@@ -1,5 +1,5 @@
 # LegislatorsCSVReader
-A simple project that organizes current members of United States congress from a csv file. 
+A simple Scala command line interface application project. This organizes current members of United States congress from a csv file. 
 
 ## Compile
 >sbt compile 
