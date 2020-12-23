@@ -1,10 +1,11 @@
-package scala
+package congress
 
 import scala.io
 import scala.collection.mutable.ArrayBuffer
 import org.mongodb.scala._
 import scala.concurrent.Future
 import scala.util.Try
+import scala.collection.mutable.Map
 
 
 object CSVReader extends App {
@@ -22,7 +23,9 @@ object CSVReader extends App {
     .toArray
   }
 
-  printNames()
+  
+
+  
   // each row is an array of strings (the columns in the csv file)
   //val rows = ArrayBuffer[Array[String]]()
 
@@ -52,15 +55,24 @@ object CSVReader extends App {
  
   
   // Prints the name of the person and state they represent
-  def printNames(): Unit = {
-    for( i<-0 to 535)
+  def printNames( curr : Array[Array[String]]): Unit = {
+    
+    for( i<-0 to curr.length - 1)
     {
       println(matrix(i)(0) + " | " + matrix(i)(5))
+      
     }
+    
   }
 
-  def countReps(): Unit = {
-    print("LOL")
+  def countReps(curr : Array[Array[String]]): Int = {
+    var count = 0
+    for( i<-0 to curr.length - 1)
+    {
+      count = count + 1
+      
+    }
+    return count
   }
   
 /**
