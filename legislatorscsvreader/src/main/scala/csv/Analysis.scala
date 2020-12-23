@@ -8,9 +8,6 @@ import scala.collection
 object Analysis {
 
     
-
-   
-
     def printNames( curr : Array[Array[String]]): Unit = {
     
      for( i<-0 to curr.length - 1)
@@ -59,7 +56,7 @@ object Analysis {
      return count
     }
 
-     def genderCalc(curr : Array[Array[String]]): String = {
+    def genderGap(curr : Array[Array[String]]): String = {
         var men = 0
         var women = 0
         

@@ -18,9 +18,9 @@ class ProjectTests extends org.scalatest.funsuite.AnyFunSuite {
     var temp = MainHandler.readCSV()
     assert(Analysis.countParties(temp).contains("249 Republicans"))
   }
-  test("Analysis.genderCalc"){
+  test("Analysis.genderGap"){
     var temp = MainHandler.readCSV()
-    assert(Analysis.genderCalc(temp).contains("406 Men"))
+    assert(Analysis.genderGap(temp).contains("406 Men"))
   }
   test("Analysis.medAge"){
     var temp = MainHandler.readCSV()

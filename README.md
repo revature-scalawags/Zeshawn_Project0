@@ -26,14 +26,21 @@ function genderCalc(Array [Array[String]] matrix) - Calculates disparities betwe
 
 function medAge (Array [Array[String]] matrix) - Calculates the median age among all congress
 
-
-
+# Analysis / MongoDB
+- Mongo compass used to parse csv and provide statistics
+- M - 75% ,  F - 25%
+- Dem - 56%, 44%
+- 13% CA 
+- 9% FL, 
+- 5% IL, 
+- 5% TX, 
+- 5% NY 
+- California shares more than half the representatives than the third largest state, Illinois
 # Testing
 - countReps
 - size
 - countGOP
 - countMale
-
 
 # Credits
 CSV File credit to https://github.com/unitedstates/congress-legislators
