@@ -1,0 +1,537 @@
+last_name,first_name,birthday,gender,typeRep,state,party,url,wikipedia_id
+Brown,Sherrod,11/9/1952,M,sen,OH,Democrat,https://www.brown.senate.gov,Sherrod Brown
+Cantwell,Maria,10/13/1958,F,sen,WA,Democrat,https://www.cantwell.senate.gov,Maria Cantwell
+Cardin,Benjamin,10/5/1943,M,sen,MD,Democrat,https://www.cardin.senate.gov,Ben Cardin
+Carper,Thomas,1/23/1947,M,sen,DE,Democrat,https://www.carper.senate.gov/public,Tom Carper
+Casey,Robert,4/13/1960,M,sen,PA,Democrat,https://www.casey.senate.gov,Bob Casey Jr.
+Feinstein,Dianne,6/22/1933,F,sen,CA,Democrat,https://www.feinstein.senate.gov,Dianne Feinstein
+Klobuchar,Amy,5/25/1960,F,sen,MN,Democrat,https://www.klobuchar.senate.gov,Amy Klobuchar
+Menendez,Robert,1/1/1954,M,sen,NJ,Democrat,https://www.menendez.senate.gov,Bob Menendez
+Sanders,Bernard,9/8/1941,M,sen,VT,Independent,https://www.sanders.senate.gov,Bernie Sanders
+Stabenow,Debbie,4/29/1950,F,sen,MI,Democrat,https://www.stabenow.senate.gov,Debbie Stabenow
+Tester,Jon,8/21/1956,M,sen,MT,Democrat,https://www.tester.senate.gov,Jon Tester
+Whitehouse,Sheldon,10/20/1955,M,sen,RI,Democrat,https://www.whitehouse.senate.gov,Sheldon Whitehouse
+Barrasso,John,7/21/1952,M,sen,WY,Republican,https://www.barrasso.senate.gov,John Barrasso
+Wicker,Roger,7/5/1951,M,sen,MS,Republican,https://www.wicker.senate.gov,Roger Wicker
+Alexander,Lamar,7/3/1940,M,sen,TN,Republican,https://www.alexander.senate.gov/public,Lamar Alexander
+Collins,Susan,12/7/1952,F,sen,ME,Republican,https://www.collins.senate.gov,Susan Collins
+Cornyn,John,2/2/1952,M,sen,TX,Republican,https://www.cornyn.senate.gov,John Cornyn
+Durbin,Richard,11/21/1944,M,sen,IL,Democrat,https://www.durbin.senate.gov,Dick Durbin
+Enzi,Michael,2/1/1944,M,sen,WY,Republican,https://www.enzi.senate.gov,Mike Enzi
+Graham,Lindsey,7/9/1955,M,sen,SC,Republican,https://www.lgraham.senate.gov/public,Lindsey Graham
+Inhofe,James,11/17/1934,M,sen,OK,Republican,https://www.inhofe.senate.gov,Jim Inhofe
+McConnell,Mitch,2/20/1942,M,sen,KY,Republican,https://www.mcconnell.senate.gov,Mitch McConnell
+Merkley,Jeff,10/24/1956,M,sen,OR,Democrat,https://www.merkley.senate.gov,Jeff Merkley
+Reed,John,11/12/1949,M,sen,RI,Democrat,https://www.reed.senate.gov,Jack Reed (Rhode Island politician)
+Risch,James,5/3/1943,M,sen,ID,Republican,https://www.risch.senate.gov,Jim Risch
+Roberts,Pat,4/20/1936,M,sen,KS,Republican,https://www.roberts.senate.gov,Pat Roberts
+Shaheen,Jeanne,1/28/1947,F,sen,NH,Democrat,https://www.shaheen.senate.gov,Jeanne Shaheen
+Udall,Tom,5/18/1948,M,sen,NM,Democrat,https://www.tomudall.senate.gov,Tom Udall
+Warner,Mark,12/15/1954,M,sen,VA,Democrat,https://www.warner.senate.gov,Mark Warner
+Gillibrand,Kirsten,12/9/1966,F,sen,NY,Democrat,https://www.gillibrand.senate.gov,Kirsten Gillibrand
+Coons,Chris,9/9/1963,M,sen,DE,Democrat,https://www.coons.senate.gov,Chris Coons
+Manchin,Joe,8/24/1947,M,sen,WV,Democrat,https://www.manchin.senate.gov,Joe Manchin
+Aderholt,Robert,7/22/1965,M,rep,AL,Republican,https://aderholt.house.gov,Robert Aderholt
+Amash,Justin,4/18/1980,M,rep,MI,Libertarian,https://amash.house.gov,Justin Amash
+Baldwin,Tammy,2/11/1962,F,sen,WI,Democrat,https://www.baldwin.senate.gov,Tammy Baldwin
+Bass,Karen,10/3/1953,F,rep,CA,Democrat,https://bass.house.gov,Karen Bass
+Bennet,Michael,11/28/1964,M,sen,CO,Democrat,https://www.bennet.senate.gov/public,Michael Bennet
+Bilirakis,Gus,2/8/1963,M,rep,FL,Republican,https://bilirakis.house.gov,Gus Bilirakis
+Bishop,Rob,7/13/1951,M,rep,UT,Republican,https://robbishop.house.gov,Rob Bishop
+Bishop,Sanford,2/4/1947,M,rep,GA,Democrat,https://bishop.house.gov,Sanford Bishop
+Blackburn,Marsha,6/6/1952,F,sen,TN,Republican,https://www.blackburn.senate.gov,Marsha Blackburn
+Blumenauer,Earl,8/16/1948,M,rep,OR,Democrat,https://blumenauer.house.gov,Earl Blumenauer
+Blumenthal,Richard,2/13/1946,M,sen,CT,Democrat,https://www.blumenthal.senate.gov,Richard Blumenthal
+Blunt,Roy,1/10/1950,M,sen,MO,Republican,https://www.blunt.senate.gov,Roy Blunt
+Boozman,John,12/10/1950,M,sen,AR,Republican,https://www.boozman.senate.gov/public,John Boozman
+Brady,Kevin,4/11/1955,M,rep,TX,Republican,https://kevinbrady.house.gov,Kevin Brady
+Brooks,Mo,4/29/1954,M,rep,AL,Republican,https://brooks.house.gov,Mo Brooks
+Buchanan,Vern,5/8/1951,M,rep,FL,Republican,https://buchanan.house.gov,Vern Buchanan
+Bucshon,Larry,5/31/1962,M,rep,IN,Republican,https://bucshon.house.gov,Larry Bucshon
+Burgess,Michael,12/23/1950,M,rep,TX,Republican,https://burgess.house.gov,Michael C. Burgess
+Burr,Richard,11/30/1955,M,sen,NC,Republican,https://www.burr.senate.gov,Richard Burr
+Butterfield,George,4/27/1947,M,rep,NC,Democrat,https://butterfield.house.gov,G. K. Butterfield
+Calvert,Ken,6/8/1953,M,rep,CA,Republican,https://calvert.house.gov,Ken Calvert
+Capito,Shelley,11/26/1953,F,sen,WV,Republican,https://www.capito.senate.gov,Shelley Moore Capito
+Carson,André,10/16/1974,M,rep,IN,Democrat,https://carson.house.gov,André Carson
+Carter,John,11/6/1941,M,rep,TX,Republican,https://carter.house.gov,John Carter (Texas politician)
+Cassidy,Bill,9/28/1957,M,sen,LA,Republican,https://www.cassidy.senate.gov,Bill Cassidy
+Castor,Kathy,8/20/1966,F,rep,FL,Democrat,https://castor.house.gov,Kathy Castor
+Chabot,Steve,1/22/1953,M,rep,OH,Republican,https://chabot.house.gov,Steve Chabot
+Chu,Judy,7/7/1953,F,rep,CA,Democrat,https://chu.house.gov,Judy Chu
+Cicilline,David,7/15/1961,M,rep,RI,Democrat,https://cicilline.house.gov,David Cicilline
+Clarke,Yvette,11/21/1964,F,rep,NY,Democrat,https://clarke.house.gov,Yvette Clarke
+Clay,Wm.,7/27/1956,M,rep,MO,Democrat,https://lacyclay.house.gov,Lacy Clay
+Cleaver,Emanuel,10/26/1944,M,rep,MO,Democrat,https://cleaver.house.gov,Emanuel Cleaver
+Clyburn,James,7/21/1940,M,rep,SC,Democrat,https://clyburn.house.gov,Jim Clyburn
+Cohen,Steve,5/24/1949,M,rep,TN,Democrat,https://cohen.house.gov,Steve Cohen
+Cole,Tom,4/28/1949,M,rep,OK,Republican,https://cole.house.gov,Tom Cole
+Conaway,K.,6/11/1948,M,rep,TX,Republican,https://conaway.house.gov,Mike Conaway
+Connolly,Gerald,3/30/1950,M,rep,VA,Democrat,https://connolly.house.gov,Gerry Connolly
+Cooper,Jim,6/19/1954,M,rep,TN,Democrat,https://cooper.house.gov,Jim Cooper
+Costa,Jim,4/13/1952,M,rep,CA,Democrat,https://costa.house.gov,Jim Costa
+Courtney,Joe,4/6/1953,M,rep,CT,Democrat,https://courtney.house.gov,Joe Courtney (politician)
+Crapo,Michael,5/20/1951,M,sen,ID,Republican,https://www.crapo.senate.gov,Mike Crapo
+Crawford,Eric,1/22/1966,M,rep,AR,Republican,https://crawford.house.gov,Rick Crawford (politician)
+Cuellar,Henry,9/19/1955,M,rep,TX,Democrat,https://cuellar.house.gov,Henry Cuellar
+Davis,Danny,9/6/1941,M,rep,IL,Democrat,https://davis.house.gov,Danny K. Davis
+Davis,Susan,4/13/1944,F,rep,CA,Democrat,https://susandavis.house.gov,Susan Davis (politician)
+DeFazio,Peter,5/27/1947,M,rep,OR,Democrat,https://defazio.house.gov,Peter DeFazio
+DeGette,Diana,7/29/1957,F,rep,CO,Democrat,https://degette.house.gov,Diana DeGette
+DeLauro,Rosa,3/2/1943,F,rep,CT,Democrat,https://delauro.house.gov,Rosa DeLauro
+DesJarlais,Scott,2/21/1964,M,rep,TN,Republican,https://desjarlais.house.gov,Scott DesJarlais
+Deutch,Theodore,5/7/1966,M,rep,FL,Democrat,https://teddeutch.house.gov,Ted Deutch
+Diaz-Balart,Mario,9/25/1961,M,rep,FL,Republican,https://mariodiazbalart.house.gov,Mario Díaz-Balart
+Doggett,Lloyd,10/6/1946,M,rep,TX,Democrat,https://doggett.house.gov,Lloyd Doggett
+Doyle,Michael,8/5/1953,M,rep,PA,Democrat,https://doyle.house.gov,Mike Doyle (American politician)
+Duncan,Jeff,1/7/1966,M,rep,SC,Republican,https://jeffduncan.house.gov,Jeff Duncan (politician)
+Engel,Eliot,2/18/1947,M,rep,NY,Democrat,https://engel.house.gov,Eliot Engel
+Eshoo,Anna,12/13/1942,F,rep,CA,Democrat,https://eshoo.house.gov,Anna Eshoo
+Fleischmann,Charles,10/11/1962,M,rep,TN,Republican,https://fleischmann.house.gov,Chuck Fleischmann
+Flores,Bill,2/25/1954,M,rep,TX,Republican,https://flores.house.gov,Bill Flores
+Fortenberry,Jeff,12/27/1960,M,rep,NE,Republican,https://fortenberry.house.gov,Jeff Fortenberry
+Foxx,Virginia,6/29/1943,F,rep,NC,Republican,https://foxx.house.gov,Virginia Foxx
+Fudge,Marcia,10/29/1952,F,rep,OH,Democrat,https://fudge.house.gov,Marcia Fudge
+Garamendi,John,1/24/1945,M,rep,CA,Democrat,https://garamendi.house.gov,John Garamendi
+Gardner,Cory,8/22/1974,M,sen,CO,Republican,https://www.gardner.senate.gov,Cory Gardner
+Gibbs,Bob,6/14/1954,M,rep,OH,Republican,https://gibbs.house.gov,Bob Gibbs
+Gohmert,Louie,8/18/1953,M,rep,TX,Republican,https://gohmert.house.gov,Louie Gohmert
+Gosar,Paul,11/22/1958,M,rep,AZ,Republican,https://gosar.house.gov,Paul Gosar
+Granger,Kay,1/18/1943,F,rep,TX,Republican,https://kaygranger.house.gov,Kay Granger
+Grassley,Charles,9/17/1933,M,sen,IA,Republican,https://www.grassley.senate.gov,Chuck Grassley
+Graves,Sam,11/7/1963,M,rep,MO,Republican,https://graves.house.gov,Sam Graves
+Green,Al,9/1/1947,M,rep,TX,Democrat,https://algreen.house.gov,Al Green (politician)
+Griffith,H.,3/15/1958,M,rep,VA,Republican,https://morgangriffith.house.gov,Morgan Griffith
+Grijalva,Raúl,2/19/1948,M,rep,AZ,Democrat,https://grijalva.house.gov,Raúl Grijalva
+Guthrie,Brett,2/18/1964,M,rep,KY,Republican,https://guthrie.house.gov,Brett Guthrie
+Harris,Andy,1/25/1957,M,rep,MD,Republican,https://harris.house.gov,Andy Harris (politician)
+Hartzler,Vicky,10/13/1960,F,rep,MO,Republican,https://hartzler.house.gov,Vicky Hartzler
+Hastings,Alcee,9/5/1936,M,rep,FL,Democrat,https://alceehastings.house.gov,Alcee Hastings
+Heinrich,Martin,10/17/1971,M,sen,NM,Democrat,https://www.heinrich.senate.gov,Martin Heinrich
+Herrera Beutler,Jaime,11/3/1978,F,rep,WA,Republican,https://herrerabeutler.house.gov,Jaime Herrera Beutler
+Higgins,Brian,10/6/1959,M,rep,NY,Democrat,https://higgins.house.gov,Brian Higgins
+Himes,James,7/5/1966,M,rep,CT,Democrat,https://himes.house.gov,Jim Himes
+Hirono,Mazie,11/3/1947,F,sen,HI,Democrat,https://www.hirono.senate.gov,Mazie Hirono
+Hoeven,John,3/13/1957,M,sen,ND,Republican,https://www.hoeven.senate.gov,John Hoeven
+Hoyer,Steny,6/14/1939,M,rep,MD,Democrat,https://hoyer.house.gov,Steny Hoyer
+Huizenga,Bill,1/31/1969,M,rep,MI,Republican,https://huizenga.house.gov,Bill Huizenga
+Jackson Lee,Sheila,1/12/1950,F,rep,TX,Democrat,https://jacksonlee.house.gov,Sheila Jackson Lee
+Johnson,Bill,11/10/1954,M,rep,OH,Republican,https://billjohnson.house.gov,Bill Johnson (Ohio politician)
+Johnson,Eddie,12/3/1935,F,rep,TX,Democrat,https://ebjohnson.house.gov,Eddie Bernice Johnson
+Johnson,Henry,10/2/1954,M,rep,GA,Democrat,https://hankjohnson.house.gov,Hank Johnson
+Johnson,Ron,4/8/1955,M,sen,WI,Republican,https://www.ronjohnson.senate.gov,Ron Johnson (Wisconsin politician)
+Jordan,Jim,2/17/1964,M,rep,OH,Republican,https://jordan.house.gov,Jim Jordan (American politician)
+Kaptur,Marcy,6/17/1946,F,rep,OH,Democrat,https://kaptur.house.gov,Marcy Kaptur
+Keating,William,9/6/1952,M,rep,MA,Democrat,https://keating.house.gov,Bill Keating (politician)
+Kelly,Mike,5/10/1948,M,rep,PA,Republican,https://kelly.house.gov,Mike Kelly (Pennsylvania politician)
+Kind,Ron,3/16/1963,M,rep,WI,Democrat,https://kind.house.gov,Ron Kind
+King,Peter,4/5/1944,M,rep,NY,Republican,https://peteking.house.gov,Peter T. King
+King,Steve,5/28/1949,M,rep,IA,Republican,https://steveking.house.gov,Steve King
+Kinzinger,Adam,2/27/1978,M,rep,IL,Republican,https://kinzinger.house.gov,Adam Kinzinger
+Lamborn,Doug,5/24/1954,M,rep,CO,Republican,https://lamborn.house.gov,Doug Lamborn
+Langevin,James,4/22/1964,M,rep,RI,Democrat,https://langevin.house.gov,James Langevin
+Lankford,James,3/4/1968,M,sen,OK,Republican,https://www.lankford.senate.gov,James Lankford
+Larsen,Rick,6/15/1965,M,rep,WA,Democrat,https://larsen.house.gov,Rick Larsen
+Larson,John,7/22/1948,M,rep,CT,Democrat,https://larson.house.gov,John B. Larson
+Latta,Robert,4/18/1956,M,rep,OH,Republican,https://latta.house.gov,Bob Latta
+Leahy,Patrick,3/31/1940,M,sen,VT,Democrat,https://www.leahy.senate.gov,Patrick Leahy
+Lee,Barbara,7/16/1946,F,rep,CA,Democrat,https://lee.house.gov,Barbara Lee
+Lee,Mike,6/4/1971,M,sen,UT,Republican,https://www.lee.senate.gov/public,Mike Lee (American politician)
+Lipinski,Daniel,7/15/1966,M,rep,IL,Democrat,https://lipinski.house.gov,Dan Lipinski
+Loebsack,David,12/23/1952,M,rep,IA,Democrat,https://loebsack.house.gov,Dave Loebsack
+Lofgren,Zoe,12/21/1947,F,rep,CA,Democrat,https://lofgren.house.gov,Zoe Lofgren
+Long,Billy,8/11/1955,M,rep,MO,Republican,https://long.house.gov,Billy Long
+Lowey,Nita,7/5/1937,F,rep,NY,Democrat,https://lowey.house.gov,Nita Lowey
+Lucas,Frank,1/6/1960,M,rep,OK,Republican,https://lucas.house.gov,Frank Lucas (Oklahoma politician)
+Luetkemeyer,Blaine,5/7/1952,M,rep,MO,Republican,https://luetkemeyer.house.gov,Blaine Luetkemeyer
+Luján,Ben,6/7/1972,M,rep,NM,Democrat,https://lujan.house.gov,Ben Ray Luján
+Lynch,Stephen,3/31/1955,M,rep,MA,Democrat,https://lynch.house.gov,Stephen F. Lynch
+Maloney,Carolyn,2/19/1946,F,rep,NY,Democrat,https://maloney.house.gov,Carolyn Maloney
+Marchant,Kenny,2/23/1951,M,rep,TX,Republican,https://marchant.house.gov,Kenny Marchant
+Markey,Edward,7/11/1946,M,sen,MA,Democrat,https://www.markey.senate.gov,Ed Markey
+Matsui,Doris,9/25/1944,F,rep,CA,Democrat,https://matsui.house.gov,Doris Matsui
+McCarthy,Kevin,1/26/1965,M,rep,CA,Republican,https://kevinmccarthy.house.gov,Kevin McCarthy (California politician)
+McCaul,Michael,1/14/1962,M,rep,TX,Republican,https://mccaul.house.gov,Michael McCaul
+McClintock,Tom,7/10/1956,M,rep,CA,Republican,https://mcclintock.house.gov,Tom McClintock
+McCollum,Betty,7/12/1954,F,rep,MN,Democrat,https://mccollum.house.gov,Betty McCollum
+McGovern,James,11/20/1959,M,rep,MA,Democrat,https://mcgovern.house.gov,Jim McGovern (American politician)
+McHenry,Patrick,10/22/1975,M,rep,NC,Republican,https://mchenry.house.gov,Patrick McHenry
+McKinley,David,3/28/1947,M,rep,WV,Republican,https://mckinley.house.gov,David McKinley
+McMorris Rodgers,Cathy,5/22/1969,F,rep,WA,Republican,https://mcmorris.house.gov,Cathy McMorris Rodgers
+McNerney,Jerry,6/18/1951,M,rep,CA,Democrat,https://mcnerney.house.gov,Jerry McNerney
+Meeks,Gregory,9/25/1953,M,rep,NY,Democrat,https://meeks.house.gov,Gregory Meeks
+Moore,Gwen,4/18/1951,F,rep,WI,Democrat,https://gwenmoore.house.gov,Gwen Moore
+Moran,Jerry,5/29/1954,M,sen,KS,Republican,https://www.moran.senate.gov,Jerry Moran
+Murkowski,Lisa,5/22/1957,F,sen,AK,Republican,https://www.murkowski.senate.gov,Lisa Murkowski
+Murphy,Christopher,8/3/1973,M,sen,CT,Democrat,https://www.murphy.senate.gov,Chris Murphy
+Murray,Patty,10/11/1950,F,sen,WA,Democrat,https://www.murray.senate.gov/public,Patty Murray
+Nadler,Jerrold,6/13/1947,M,rep,NY,Democrat,https://nadler.house.gov,Jerry Nadler
+Napolitano,Grace,12/4/1936,F,rep,CA,Democrat,https://napolitano.house.gov,Grace Napolitano
+Neal,Richard,2/14/1949,M,rep,MA,Democrat,https://neal.house.gov,Richard Neal
+Norton,Eleanor,6/13/1937,F,rep,DC,Democrat,https://norton.house.gov,Eleanor Holmes Norton
+Nunes,Devin,10/1/1973,M,rep,CA,Republican,https://nunes.house.gov,Devin Nunes
+Olson,Pete,12/9/1962,M,rep,TX,Republican,https://olson.house.gov,Pete Olson
+Palazzo,Steven,2/21/1970,M,rep,MS,Republican,https://palazzo.house.gov,Steven Palazzo
+Pallone,Frank,10/30/1951,M,rep,NJ,Democrat,https://pallone.house.gov,Frank Pallone
+Pascrell,Bill,1/25/1937,M,rep,NJ,Democrat,https://pascrell.house.gov,Bill Pascrell
+Paul,Rand,1/7/1963,M,sen,KY,Republican,https://www.paul.senate.gov,Rand Paul
+Pelosi,Nancy,3/26/1940,F,rep,CA,Democrat,https://pelosi.house.gov,Nancy Pelosi
+Perlmutter,Ed,5/1/1953,M,rep,CO,Democrat,https://perlmutter.house.gov,Ed Perlmutter
+Peters,Gary,12/1/1958,M,sen,MI,Democrat,https://www.peters.senate.gov,Gary Peters
+Peterson,Collin,6/29/1944,M,rep,MN,Democrat,https://collinpeterson.house.gov,Collin Peterson
+Pingree,Chellie,4/2/1955,F,rep,ME,Democrat,https://pingree.house.gov,Chellie Pingree
+Portman,Robert,12/19/1955,M,sen,OH,Republican,https://www.portman.senate.gov,Rob Portman
+Posey,Bill,12/18/1947,M,rep,FL,Republican,https://posey.house.gov,Bill Posey
+Price,David,8/17/1940,M,rep,NC,Democrat,https://price.house.gov,David Price (American politician)
+Quigley,Mike,10/17/1958,M,rep,IL,Democrat,https://quigley.house.gov,Mike Quigley (politician)
+Reed,Tom,11/18/1971,M,rep,NY,Republican,https://reed.house.gov,Tom Reed (politician)
+Richmond,Cedric,9/13/1973,M,rep,LA,Democrat,https://richmond.house.gov,Cedric Richmond
+Roby,Martha,7/27/1976,F,rep,AL,Republican,https://roby.house.gov,Martha Roby
+Roe,David,7/21/1945,M,rep,TN,Republican,https://roe.house.gov,Phil Roe (politician)
+Rogers,Harold,12/31/1937,M,rep,KY,Republican,https://halrogers.house.gov,Hal Rogers
+Rogers,Mike,7/16/1958,M,rep,AL,Republican,https://mikerogers.house.gov,Mike Rogers (Alabama politician)
+Roybal-Allard,Lucille,6/12/1941,F,rep,CA,Democrat,https://roybal-allard.house.gov,Lucille Roybal-Allard
+Rubio,Marco,5/28/1971,M,sen,FL,Republican,https://www.rubio.senate.gov,Marco Rubio
+Ruppersberger,C.,1/31/1946,M,rep,MD,Democrat,https://ruppersberger.house.gov,Dutch Ruppersberger
+Rush,Bobby,11/23/1946,M,rep,IL,Democrat,https://rush.house.gov,Bobby Rush
+Ryan,Tim,7/16/1973,M,rep,OH,Democrat,https://timryan.house.gov,Tim Ryan (Ohio politician)
+Sablan,Gregorio,1/19/1955,M,rep,MP,Democrat,https://sablan.house.gov,Gregorio Sablan
+Sarbanes,John,5/22/1962,M,rep,MD,Democrat,https://sarbanes.house.gov,John Sarbanes
+Scalise,Steve,10/6/1965,M,rep,LA,Republican,https://scalise.house.gov,Steve Scalise
+Schakowsky,Janice,5/26/1944,F,rep,IL,Democrat,https://schakowsky.house.gov,Jan Schakowsky
+Schiff,Adam,6/22/1960,M,rep,CA,Democrat,https://schiff.house.gov,Adam Schiff
+Schrader,Kurt,10/19/1951,M,rep,OR,Democrat,https://schrader.house.gov,Kurt Schrader
+Schumer,Charles,11/23/1950,M,sen,NY,Democrat,https://www.schumer.senate.gov,Chuck Schumer
+Schweikert,David,3/3/1962,M,rep,AZ,Republican,https://schweikert.house.gov,David Schweikert
+Scott,Austin,12/10/1969,M,rep,GA,Republican,https://austinscott.house.gov,Austin Scott (politician)
+Scott,David,6/27/1945,M,rep,GA,Democrat,https://davidscott.house.gov,David Scott (Georgia politician)
+Scott,Robert,4/30/1947,M,rep,VA,Democrat,https://bobbyscott.house.gov,Bobby Scott (politician)
+Scott,Tim,9/19/1965,M,sen,SC,Republican,https://www.scott.senate.gov,Tim Scott
+Sensenbrenner,F.,6/14/1943,M,rep,WI,Republican,https://sensenbrenner.house.gov,Jim Sensenbrenner
+Serrano,José,10/24/1943,M,rep,NY,Democrat,https://serrano.house.gov,José E. Serrano
+Sewell,Terri,1/1/1965,F,rep,AL,Democrat,https://sewell.house.gov,Terri Sewell
+Shelby,Richard,5/6/1934,M,sen,AL,Republican,https://www.shelby.senate.gov,Richard Shelby
+Sherman,Brad,10/24/1954,M,rep,CA,Democrat,https://sherman.house.gov,Brad Sherman
+Shimkus,John,2/21/1958,M,rep,IL,Republican,https://shimkus.house.gov,John Shimkus
+Simpson,Michael,9/8/1950,M,rep,ID,Republican,https://simpson.house.gov,Mike Simpson
+Sires,Albio,1/26/1951,M,rep,NJ,Democrat,https://sires.house.gov,Albio Sires
+Smith,Adam,6/15/1965,M,rep,WA,Democrat,https://adamsmith.house.gov,Adam Smith (politician)
+Smith,Adrian,12/19/1970,M,rep,NE,Republican,https://adriansmith.house.gov,Adrian Smith (politician)
+Smith,Christopher,3/4/1953,M,rep,NJ,Republican,https://chrissmith.house.gov,Chris Smith (New Jersey politician)
+Speier,Jackie,5/14/1950,F,rep,CA,Democrat,https://speier.house.gov,Jackie Speier
+Stivers,Steve,3/24/1965,M,rep,OH,Republican,https://stivers.house.gov,Steve Stivers
+Sánchez,Linda,1/28/1969,F,rep,CA,Democrat,https://lindasanchez.house.gov,Linda Sánchez
+Thompson,Bennie,1/28/1948,M,rep,MS,Democrat,https://benniethompson.house.gov,Bennie Thompson
+Thompson,Mike,1/24/1951,M,rep,CA,Democrat,https://mikethompson.house.gov,Mike Thompson (California politician)
+Thompson,Glenn,7/27/1959,M,rep,PA,Republican,https://thompson.house.gov,Glenn Thompson (politician)
+Thornberry,Mac,7/15/1958,M,rep,TX,Republican,https://thornberry.house.gov,Mac Thornberry
+Thune,John,1/7/1961,M,sen,SD,Republican,https://www.thune.senate.gov,John Thune
+Tipton,Scott,11/9/1956,M,rep,CO,Republican,https://tipton.house.gov,Scott Tipton
+Tonko,Paul,6/18/1949,M,rep,NY,Democrat,https://tonko.house.gov,Paul Tonko
+Toomey,Patrick,11/17/1961,M,sen,PA,Republican,https://www.toomey.senate.gov,Pat Toomey
+Turner,Michael,1/11/1960,M,rep,OH,Republican,https://turner.house.gov,Mike Turner
+Upton,Fred,4/23/1953,M,rep,MI,Republican,https://upton.house.gov,Fred Upton
+Van Hollen,Chris,1/10/1959,M,sen,MD,Democrat,https://www.vanhollen.senate.gov,Chris Van Hollen
+Velázquez,Nydia,3/28/1953,F,rep,NY,Democrat,https://velazquez.house.gov,Nydia Velázquez
+Visclosky,Peter,8/13/1949,M,rep,IN,Democrat,https://visclosky.house.gov,Pete Visclosky
+Walberg,Tim,4/12/1951,M,rep,MI,Republican,https://walberg.house.gov,Tim Walberg
+Walden,Greg,1/10/1957,M,rep,OR,Republican,https://walden.house.gov,Greg Walden
+Wasserman Schultz,Debbie,9/27/1966,F,rep,FL,Democrat,https://wassermanschultz.house.gov,Debbie Wasserman Schultz
+Waters,Maxine,8/15/1938,F,rep,CA,Democrat,https://waters.house.gov,Maxine Waters
+Webster,Daniel,4/27/1949,M,rep,FL,Republican,https://webster.house.gov,Daniel Webster (Florida politician)
+Welch,Peter,5/2/1947,M,rep,VT,Democrat,https://welch.house.gov,Peter Welch
+Wilson,Joe,7/31/1947,M,rep,SC,Republican,https://joewilson.house.gov,Joe Wilson (American politician)
+Wilson,Frederica,11/5/1942,F,rep,FL,Democrat,https://wilson.house.gov,Frederica Wilson
+Wittman,Robert,2/3/1959,M,rep,VA,Republican,https://wittman.house.gov,Rob Wittman
+Womack,Steve,2/18/1957,M,rep,AR,Republican,https://womack.house.gov,Steve Womack
+Woodall,Rob,2/11/1970,M,rep,GA,Republican,https://woodall.house.gov,Rob Woodall
+Wyden,Ron,5/3/1949,M,sen,OR,Democrat,https://www.wyden.senate.gov,Ron Wyden
+Yarmuth,John,11/4/1947,M,rep,KY,Democrat,https://yarmuth.house.gov,John Yarmuth
+Young,Don,6/9/1933,M,rep,AK,Republican,https://donyoung.house.gov,Don Young
+Young,Todd,8/24/1972,M,sen,IN,Republican,https://www.young.senate.gov,Todd Young
+Amodei,Mark,6/12/1958,M,rep,NV,Republican,https://amodei.house.gov,Mark Amodei
+Bonamici,Suzanne,10/14/1954,F,rep,OR,Democrat,https://bonamici.house.gov,Suzanne Bonamici
+DelBene,Suzan,2/17/1962,F,rep,WA,Democrat,https://delbene.house.gov,Suzan DelBene
+Massie,Thomas,1/13/1971,M,rep,KY,Republican,https://massie.house.gov,Thomas Massie
+Payne,Donald,12/17/1958,M,rep,NJ,Democrat,https://payne.house.gov,Donald Payne Jr.
+Schatz,Brian,10/20/1972,M,sen,HI,Democrat,https://www.schatz.senate.gov,Brian Schatz
+Foster,Bill,10/7/1955,M,rep,IL,Democrat,https://foster.house.gov,Bill Foster (politician)
+Titus,Dina,5/23/1950,F,rep,NV,Democrat,https://titus.house.gov,Dina Titus
+Cotton,Tom,5/13/1977,M,sen,AR,Republican,https://www.cotton.senate.gov,Tom Cotton
+Sinema,Kyrsten,7/12/1976,F,sen,AZ,Democrat,https://www.sinema.senate.gov,Kyrsten Sinema
+LaMalfa,Doug,7/2/1960,M,rep,CA,Republican,https://lamalfa.house.gov,Doug LaMalfa
+Huffman,Jared,2/18/1964,M,rep,CA,Democrat,https://huffman.house.gov,Jared Huffman
+Bera,Ami,3/2/1965,M,rep,CA,Democrat,https://bera.house.gov,Ami Bera
+Swalwell,Eric,11/16/1980,M,rep,CA,Democrat,https://swalwell.house.gov,Eric Swalwell
+Brownley,Julia,8/28/1952,F,rep,CA,Democrat,https://juliabrownley.house.gov,Julia Brownley
+Cárdenas,Tony,3/31/1963,M,rep,CA,Democrat,https://cardenas.house.gov,Tony Cárdenas
+Ruiz,Raul,8/25/1972,M,rep,CA,Democrat,https://ruiz.house.gov,Raul Ruiz (politician)
+Takano,Mark,12/10/1960,M,rep,CA,Democrat,https://takano.house.gov,Mark Takano
+Lowenthal,Alan,3/8/1941,M,rep,CA,Democrat,https://lowenthal.house.gov,Alan Lowenthal
+Vargas,Juan,3/7/1961,M,rep,CA,Democrat,https://vargas.house.gov,Juan Vargas
+Peters,Scott,6/17/1958,M,rep,CA,Democrat,https://scottpeters.house.gov,Scott Peters (politician)
+Yoho,Ted,4/13/1955,M,rep,FL,Republican,https://yoho.house.gov,Ted Yoho
+Frankel,Lois,5/16/1948,F,rep,FL,Democrat,https://frankel.house.gov,Lois Frankel
+Collins,Doug,8/16/1966,M,rep,GA,Republican,https://dougcollins.house.gov,Doug Collins (politician)
+Gabbard,Tulsi,4/12/1981,F,rep,HI,Democrat,https://gabbard.house.gov,Tulsi Gabbard
+Duckworth,Tammy,3/12/1968,F,sen,IL,Democrat,https://www.duckworth.senate.gov,Tammy Duckworth
+Davis,Rodney,1/5/1970,M,rep,IL,Republican,https://rodneydavis.house.gov,Rodney Davis (politician)
+Bustos,Cheri,10/17/1961,F,rep,IL,Democrat,https://bustos.house.gov,Cheri Bustos
+Walorski,Jackie,8/17/1963,F,rep,IN,Republican,https://walorski.house.gov,Jackie Walorski
+Brooks,Susan,8/25/1960,F,rep,IN,Republican,https://susanwbrooks.house.gov,Susan Brooks
+Barr,Garland,7/24/1973,M,rep,KY,Republican,https://barr.house.gov,Andy Barr (American politician)
+Warren,Elizabeth,6/22/1949,F,sen,MA,Democrat,https://www.warren.senate.gov,Elizabeth Warren
+Kennedy,Joseph,10/4/1980,M,rep,MA,Democrat,https://kennedy.house.gov,Joe Kennedy III
+King,Angus,3/31/1944,M,sen,ME,Independent,https://www.king.senate.gov,Angus King
+Kildee,Daniel,8/11/1958,M,rep,MI,Democrat,https://dankildee.house.gov,Dan Kildee
+Wagner,Ann,9/13/1962,F,rep,MO,Republican,https://wagner.house.gov,Ann Wagner
+Daines,Steve,8/20/1962,M,sen,MT,Republican,https://www.daines.senate.gov,Steve Daines
+Hudson,Richard,11/4/1971,M,rep,NC,Republican,https://hudson.house.gov,Richard Hudson (American politician)
+Holding,George,4/17/1968,M,rep,NC,Republican,https://holding.house.gov,George Holding
+Cramer,Kevin,1/21/1961,M,sen,ND,Republican,https://www.cramer.senate.gov,Kevin Cramer
+Fischer,Deb,3/1/1951,F,sen,NE,Republican,https://www.fischer.senate.gov,Deb Fischer
+Kuster,Ann,9/5/1956,F,rep,NH,Democrat,https://kuster.house.gov,Ann McLane Kuster
+Meng,Grace,10/1/1975,F,rep,NY,Democrat,https://meng.house.gov,Grace Meng
+Jeffries,Hakeem,8/4/1970,M,rep,NY,Democrat,https://jeffries.house.gov,Hakeem Jeffries
+Maloney,Sean,7/30/1966,M,rep,NY,Democrat,https://seanmaloney.house.gov,Sean Patrick Maloney
+Wenstrup,Brad,6/17/1958,M,rep,OH,Republican,https://wenstrup.house.gov,Brad Wenstrup
+Beatty,Joyce,3/12/1950,F,rep,OH,Democrat,https://beatty.house.gov,Joyce Beatty
+Joyce,David,3/17/1957,M,rep,OH,Republican,https://joyce.house.gov,David Joyce (politician)
+Mullin,Markwayne,7/26/1977,M,rep,OK,Republican,https://mullin.house.gov,Markwayne Mullin
+Perry,Scott,5/27/1962,M,rep,PA,Republican,https://perry.house.gov,Scott Perry (politician)
+Cartwright,Matthew,5/1/1961,M,rep,PA,Democrat,https://cartwright.house.gov,Matt Cartwright
+Rice,Tom,8/4/1957,M,rep,SC,Republican,https://rice.house.gov,Tom Rice
+Cruz,Ted,12/22/1970,M,sen,TX,Republican,https://www.cruz.senate.gov,Ted Cruz
+Weber,Randy,7/2/1953,M,rep,TX,Republican,https://weber.house.gov,Randy Weber
+Castro,Joaquin,9/16/1974,M,rep,TX,Democrat,https://castro.house.gov,Joaquin Castro
+Williams,Roger,9/13/1949,M,rep,TX,Republican,https://williams.house.gov,Roger Williams (American politician)
+Veasey,Marc,1/3/1971,M,rep,TX,Democrat,https://veasey.house.gov,Marc Veasey
+Vela,Filemon,2/13/1963,M,rep,TX,Democrat,https://vela.house.gov,Filemon Vela Jr.
+Stewart,Chris,7/15/1960,M,rep,UT,Republican,https://stewart.house.gov,Chris Stewart (politician)
+Kaine,Timothy,2/26/1958,M,sen,VA,Democrat,https://www.kaine.senate.gov,Tim Kaine
+Kilmer,Derek,1/1/1974,M,rep,WA,Democrat,https://kilmer.house.gov,Derek Kilmer
+Heck,Denny,7/29/1952,M,rep,WA,Democrat,https://dennyheck.house.gov,Denny Heck
+Pocan,Mark,8/14/1964,M,rep,WI,Democrat,https://pocan.house.gov,Mark Pocan
+Kelly,Robin,4/30/1956,F,rep,IL,Democrat,https://robinkelly.house.gov,Robin Kelly
+Smith,Jason,6/16/1980,M,rep,MO,Republican,https://jasonsmith.house.gov,Jason Smith (politician)
+Booker,Cory,4/27/1969,M,sen,NJ,Democrat,https://www.booker.senate.gov,Cory Booker
+Clark,Katherine,7/17/1963,F,rep,MA,Democrat,https://katherineclark.house.gov,Katherine Clark
+Byrne,Bradley,2/16/1955,M,rep,AL,Republican,https://byrne.house.gov,Bradley Byrne
+Norcross,Donald,12/13/1958,M,rep,NJ,Democrat,https://norcross.house.gov,Donald Norcross
+Adams,Alma,5/27/1946,F,rep,NC,Democrat,https://adams.house.gov,Alma Adams
+Palmer,Gary,5/14/1954,M,rep,AL,Republican,https://palmer.house.gov,Gary Palmer (politician)
+Hill,French,12/5/1956,M,rep,AR,Republican,https://hill.house.gov,French Hill (politician)
+Westerman,Bruce,11/18/1967,M,rep,AR,Republican,https://westerman.house.gov,Bruce Westerman
+Gallego,Ruben,11/20/1979,M,rep,AZ,Democrat,https://rubengallego.house.gov,Ruben Gallego
+DeSaulnier,Mark,3/31/1952,M,rep,CA,Democrat,https://desaulnier.house.gov,Mark DeSaulnier
+Aguilar,Pete,6/19/1979,M,rep,CA,Democrat,https://aguilar.house.gov,Pete Aguilar
+Lieu,Ted,3/29/1969,M,rep,CA,Democrat,https://lieu.house.gov,Ted Lieu
+Torres,Norma,4/4/1965,F,rep,CA,Democrat,https://torres.house.gov,Norma Torres
+Buck,Ken,2/16/1959,M,rep,CO,Republican,https://buck.house.gov,Ken Buck
+Carter,Buddy,9/6/1957,M,rep,GA,Republican,https://buddycarter.house.gov,Buddy Carter
+Hice,Jody,4/22/1960,M,rep,GA,Republican,https://hice.house.gov,Jody Hice
+Loudermilk,Barry,12/22/1963,M,rep,GA,Republican,https://loudermilk.house.gov,Barry Loudermilk
+Allen,Rick,11/7/1951,M,rep,GA,Republican,https://allen.house.gov,Rick W. Allen
+Bost,Mike,12/30/1960,M,rep,IL,Republican,https://bost.house.gov,Mike Bost
+Abraham,Ralph,9/16/1954,M,rep,LA,Republican,https://abraham.house.gov,Ralph Abraham (politician)
+Graves,Garret,1/31/1972,M,rep,LA,Republican,https://garretgraves.house.gov,Garret Graves
+Moulton,Seth,10/24/1978,M,rep,MA,Democrat,https://moulton.house.gov,Seth Moulton
+Moolenaar,John,5/8/1961,M,rep,MI,Republican,https://moolenaar.house.gov,John Moolenaar
+Dingell,Debbie,11/23/1953,F,rep,MI,Democrat,https://debbiedingell.house.gov,Debbie Dingell
+Lawrence,Brenda,10/18/1954,F,rep,MI,Democrat,https://lawrence.house.gov,Brenda Lawrence
+Emmer,Tom,3/3/1961,M,rep,MN,Republican,https://emmer.house.gov,Tom Emmer
+Rouzer,David,2/16/1972,M,rep,NC,Republican,https://rouzer.house.gov,David Rouzer
+Watson Coleman,Bonnie,2/6/1945,F,rep,NJ,Democrat,https://watsoncoleman.house.gov,Bonnie Watson Coleman
+Zeldin,Lee,1/30/1980,M,rep,NY,Republican,https://zeldin.house.gov,Lee Zeldin
+Rice,Kathleen,2/15/1965,F,rep,NY,Democrat,https://kathleenrice.house.gov,Kathleen Rice
+Stefanik,Elise,7/2/1984,F,rep,NY,Republican,https://stefanik.house.gov,Elise Stefanik
+Katko,John,11/9/1962,M,rep,NY,Republican,https://katko.house.gov,John Katko
+Boyle,Brendan,2/6/1977,M,rep,PA,Democrat,https://boyle.house.gov,Brendan Boyle
+Hurd,Will,8/19/1977,M,rep,TX,Republican,https://hurd.house.gov,Will Hurd
+Babin,Brian,3/23/1948,M,rep,TX,Republican,https://babin.house.gov,Brian Babin
+Beyer,Donald,6/20/1950,M,rep,VA,Democrat,https://beyer.house.gov,Don Beyer
+Plaskett,Stacey,5/13/1966,F,rep,VI,Democrat,https://plaskett.house.gov,Stacey Plaskett
+Newhouse,Dan,7/10/1955,M,rep,WA,Republican,https://newhouse.house.gov,Dan Newhouse
+Grothman,Glenn,7/3/1955,M,rep,WI,Republican,https://grothman.house.gov,Glenn Grothman
+Mooney,Alex,6/5/1971,M,rep,WV,Republican,https://mooney.house.gov,Alex Mooney
+Amata,Aumua,12/29/1947,F,rep,AS,Republican,https://radewagen.house.gov,Amata Coleman Radewagen
+Sullivan,Dan,11/13/1964,M,sen,AK,Republican,https://www.sullivan.senate.gov,Dan Sullivan (U.S. senator)
+Perdue,David,12/10/1949,M,sen,GA,Republican,https://www.perdue.senate.gov,David Perdue
+Ernst,Joni,7/1/1970,F,sen,IA,Republican,https://www.ernst.senate.gov/public,Joni Ernst
+Tillis,Thom,8/30/1960,M,sen,NC,Republican,https://www.tillis.senate.gov,Thom Tillis
+Rounds,Mike,10/24/1954,M,sen,SD,Republican,https://www.rounds.senate.gov,Mike Rounds
+Walker,Mark,5/20/1969,M,rep,NC,Republican,https://walker.house.gov,Mark Walker (North Carolina politician)
+Sasse,Benjamin,2/22/1972,M,sen,NE,Republican,https://www.sasse.senate.gov/public,Ben Sasse
+Kelly,Trent,3/1/1966,M,rep,MS,Republican,https://trentkelly.house.gov,Trent Kelly
+LaHood,Darin,7/5/1968,M,rep,IL,Republican,https://lahood.house.gov,Darin LaHood
+Davidson,Warren,3/1/1970,M,rep,OH,Republican,https://davidson.house.gov,Warren Davidson
+Comer,James,8/19/1972,M,rep,KY,Republican,https://comer.house.gov,James Comer (politician)
+Evans,Dwight,5/16/1954,M,rep,PA,Democrat,https://evans.house.gov,Dwight Evans (politician)
+Harris,Kamala,10/20/1964,F,sen,CA,Democrat,https://www.harris.senate.gov,Kamala Harris
+Kennedy,John,11/21/1951,M,sen,LA,Republican,https://www.kennedy.senate.gov/public,John Kennedy (Louisiana politician)
+Hassan,Margaret,2/27/1958,F,sen,NH,Democrat,https://www.hassan.senate.gov,Maggie Hassan
+Cortez Masto,Catherine,3/29/1964,F,sen,NV,Democrat,https://www.cortezmasto.senate.gov,Catherine Cortez Masto
+Schneider,Bradley,8/20/1961,M,rep,IL,Democrat,https://schneider.house.gov,Brad Schneider
+O’Halleran,Tom,1/24/1946,M,rep,AZ,Democrat,https://ohalleran.house.gov,Tom O'Halleran
+Biggs,Andy,11/7/1958,M,rep,AZ,Republican,https://biggs.house.gov,Andy Biggs
+Khanna,Ro,9/13/1976,M,rep,CA,Democrat,https://khanna.house.gov,Ro Khanna
+Panetta,Jimmy,10/1/1969,M,rep,CA,Democrat,https://panetta.house.gov,Jimmy Panetta
+Carbajal,Salud,11/18/1964,M,rep,CA,Democrat,https://carbajal.house.gov,Salud Carbajal
+Barragán,Nanette,9/15/1976,F,rep,CA,Democrat,https://barragan.house.gov,Nanette Barragán
+Correa,J.,1/24/1958,M,rep,CA,Democrat,https://correa.house.gov,Lou Correa
+Blunt Rochester,Lisa,2/10/1962,F,rep,DE,Democrat,https://bluntrochester.house.gov,Lisa Blunt Rochester
+Gaetz,Matt,5/7/1982,M,rep,FL,Republican,https://gaetz.house.gov,Matt Gaetz
+Dunn,Neal,2/16/1953,M,rep,FL,Republican,https://dunn.house.gov,Neal Dunn
+Rutherford,John,9/2/1952,M,rep,FL,Republican,https://rutherford.house.gov,John Rutherford (Florida politician)
+Lawson,Al,9/23/1948,M,rep,FL,Democrat,https://lawson.house.gov,Al Lawson
+Murphy,Stephanie,9/16/1978,F,rep,FL,Democrat,https://murphy.house.gov,Stephanie Murphy
+Soto,Darren,2/25/1978,M,rep,FL,Democrat,https://soto.house.gov,Darren Soto
+Demings,Val,3/12/1957,F,rep,FL,Democrat,https://demings.house.gov,Val Demings
+Crist,Charlie,7/24/1956,M,rep,FL,Democrat,https://crist.house.gov,Charlie Crist
+Mast,Brian,7/10/1980,M,rep,FL,Republican,https://mast.house.gov,Brian Mast
+Rooney,Francis,12/4/1953,M,rep,FL,Republican,https://francisrooney.house.gov,Francis Rooney
+Ferguson,A.,11/15/1966,M,rep,GA,Republican,https://ferguson.house.gov,Drew Ferguson (politician)
+Krishnamoorthi,Raja,7/19/1973,M,rep,IL,Democrat,https://krishnamoorthi.house.gov,Raja Krishnamoorthi
+Banks,Jim,7/16/1979,M,rep,IN,Republican,https://banks.house.gov,Jim Banks
+Hollingsworth,Trey,9/12/1983,M,rep,IN,Republican,https://hollingsworth.house.gov,Trey Hollingsworth
+Marshall,Roger,8/9/1960,M,rep,KS,Republican,https://marshall.house.gov,Roger Marshall (politician)
+Higgins,Clay,8/24/1961,M,rep,LA,Republican,https://clayhiggins.house.gov,Clay Higgins
+Johnson,Mike,1/30/1972,M,rep,LA,Republican,https://mikejohnson.house.gov,Mike Johnson (Louisiana politician)
+Brown,Anthony,11/21/1961,M,rep,MD,Democrat,https://anthonybrown.house.gov,Anthony G. Brown
+Raskin,Jamie,12/13/1962,M,rep,MD,Democrat,https://raskin.house.gov,Jamie Raskin
+Bergman,Jack,2/2/1947,M,rep,MI,Republican,https://bergman.house.gov,Jack Bergman
+Mitchell,Paul,5/8/1961,M,rep,MI,Independent,https://mitchell.house.gov,Paul Mitchell (politician)
+Budd,Ted,10/21/1971,M,rep,NC,Republican,https://budd.house.gov,Ted Budd
+Bacon,Don,8/16/1963,M,rep,NE,Republican,https://bacon.house.gov,Don Bacon (politician)
+Gottheimer,Josh,3/8/1975,M,rep,NJ,Democrat,https://gottheimer.house.gov,Josh Gottheimer
+Rosen,Jacky,8/2/1957,F,sen,NV,Democrat,https://www.rosen.senate.gov,Jacky Rosen
+Suozzi,Thomas,8/31/1962,M,rep,NY,Democrat,https://suozzi.house.gov,Thomas Suozzi
+Espaillat,Adriano,9/27/1954,M,rep,NY,Democrat,https://espaillat.house.gov,Adriano Espaillat
+Fitzpatrick,Brian,12/17/1973,M,rep,PA,Republican,https://fitzpatrick.house.gov,Brian Fitzpatrick (American politician)
+Smucker,Lloyd,1/23/1964,M,rep,PA,Republican,https://smucker.house.gov,Lloyd Smucker
+González-Colón,Jenniffer,8/5/1976,F,rep,PR,Republican,https://gonzalez-colon.house.gov,Jenniffer González
+Kustoff,David,10/8/1966,M,rep,TN,Republican,https://kustoff.house.gov,David Kustoff
+Gonzalez,Vicente,9/4/1967,M,rep,TX,Democrat,https://gonzalez.house.gov,Vicente Gonzalez (politician)
+Arrington,Jodey,3/9/1972,M,rep,TX,Republican,https://arrington.house.gov,Jodey Arrington
+McEachin,A.,10/10/1961,M,rep,VA,Democrat,https://mceachin.house.gov,Donald McEachin
+Jayapal,Pramila,9/21/1965,F,rep,WA,Democrat,https://jayapal.house.gov,Pramila Jayapal
+Gallagher,Mike,3/3/1984,M,rep,WI,Republican,https://gallagher.house.gov,Mike Gallagher (American politician)
+Cheney,Liz,7/28/1966,F,rep,WY,Republican,https://cheney.house.gov,Liz Cheney
+Estes,Ron,7/19/1956,M,rep,KS,Republican,https://estes.house.gov,Ron Estes
+Gianforte,Greg,4/17/1961,M,rep,MT,Republican,https://gianforte.house.gov,Greg Gianforte
+Norman,Ralph,6/20/1953,M,rep,SC,Republican,https://norman.house.gov,Ralph Norman
+Gomez,Jimmy,11/25/1974,M,rep,CA,Democrat,https://gomez.house.gov,Jimmy Gomez
+Curtis,John,5/10/1960,M,rep,UT,Republican,https://curtis.house.gov,John Curtis (Utah politician)
+Jones,Doug,5/4/1954,M,sen,AL,Democrat,https://www.jones.senate.gov,Doug Jones (politician)
+Smith,Tina,3/4/1958,F,sen,MN,Democrat,https://www.smith.senate.gov,Tina Smith
+Hyde-Smith,Cindy,5/10/1959,F,sen,MS,Republican,https://www.hydesmith.senate.gov,Cindy Hyde-Smith
+Lamb,Conor,6/27/1984,M,rep,PA,Democrat,https://lamb.house.gov,Conor Lamb
+Lesko,Debbie,11/14/1958,F,rep,AZ,Republican,https://lesko.house.gov,Debbie Lesko
+Cloud,Michael,5/13/1975,M,rep,TX,Republican,https://cloud.house.gov,Michael Cloud
+Balderson,Troy,1/16/1962,M,rep,OH,Republican,https://balderson.house.gov,Troy Balderson
+Hern,Kevin,12/4/1961,M,rep,OK,Republican,https://hern.house.gov,Kevin Hern
+Morelle,Joseph,4/29/1957,M,rep,NY,Democrat,https://morelle.house.gov,Joseph Morelle
+Scanlon,Mary,8/30/1959,F,rep,PA,Democrat,https://scanlon.house.gov,Mary Gay Scanlon
+Wild,Susan,6/7/1957,F,rep,PA,Democrat,https://wild.house.gov,Susan Wild
+Case,Ed,9/27/1952,M,rep,HI,Democrat,https://case.house.gov,Ed Case
+Horsford,Steven,4/29/1973,M,rep,NV,Democrat,https://horsford.house.gov,Steven Horsford
+Kirkpatrick,Ann,3/24/1950,F,rep,AZ,Democrat,https://kirkpatrick.house.gov,Ann Kirkpatrick
+Stanton,Greg,3/8/1970,M,rep,AZ,Democrat,https://stanton.house.gov,Greg Stanton
+Harder,Josh,8/1/1986,M,rep,CA,Democrat,https://harder.house.gov,Josh Harder
+Cox,TJ,7/18/1963,M,rep,CA,Democrat,https://cox.house.gov,TJ Cox
+Cisneros,Gilbert,2/12/1971,M,rep,CA,Democrat,https://cisneros.house.gov,Gil Cisneros
+Porter,Katie,1/3/1974,F,rep,CA,Democrat,https://porter.house.gov,Katie Porter
+Rouda,Harley,12/10/1961,M,rep,CA,Democrat,https://rouda.house.gov,Harley Rouda
+Levin,Mike,10/28/1978,M,rep,CA,Democrat,https://mikelevin.house.gov,Mike Levin
+Neguse,Joe,5/13/1984,M,rep,CO,Democrat,https://neguse.house.gov,Joe Neguse
+Crow,Jason,3/15/1979,M,rep,CO,Democrat,https://crow.house.gov,Jason Crow
+Hayes,Jahana,3/8/1973,F,rep,CT,Democrat,https://hayes.house.gov,Jahana Hayes
+Waltz,Michael,1/31/1974,M,rep,FL,Republican,https://waltz.house.gov,Michael Waltz
+Spano,Ross,7/16/1966,M,rep,FL,Republican,https://spano.house.gov,Ross Spano
+Steube,W.,5/19/1978,M,rep,FL,Republican,https://steube.house.gov,Greg Steube
+Mucarsel-Powell,Debbie,1/18/1971,F,rep,FL,Democrat,https://mucarsel-powell.house.gov,Debbie Mucarsel-Powell
+Shalala,Donna,2/14/1941,F,rep,FL,Democrat,https://shalala.house.gov,Donna Shalala
+McBath,Lucy,6/1/1960,F,rep,GA,Democrat,https://mcbath.house.gov,Lucy McBath
+San Nicolas,Michael,1/30/1981,M,rep,GU,Democrat,https://sannicolas.house.gov,Michael San Nicolas
+Finkenauer,Abby,12/27/1988,F,rep,IA,Democrat,https://finkenauer.house.gov,Abby Finkenauer
+Axne,Cynthia,4/20/1965,F,rep,IA,Democrat,https://axne.house.gov,Cindy Axne
+Fulcher,Russ,7/19/1973,M,rep,ID,Republican,https://fulcher.house.gov,Russ Fulcher
+García,Jesús,4/12/1956,M,rep,IL,Democrat,https://chuygarcia.house.gov,"Jesús ""Chuy"" García"
+Casten,Sean,11/23/1971,M,rep,IL,Democrat,https://casten.house.gov,Sean Casten
+Underwood,Lauren,10/4/1986,F,rep,IL,Democrat,https://underwood.house.gov,Lauren Underwood
+Baird,James,6/4/1945,M,rep,IN,Republican,https://baird.house.gov,Jim Baird (politician)
+Pence,Greg,11/14/1956,M,rep,IN,Republican,https://pence.house.gov,Greg Pence
+Watkins,Steven,9/18/1976,M,rep,KS,Republican,https://watkins.house.gov,Steve Watkins
+Davids,Sharice,5/22/1980,F,rep,KS,Democrat,https://davids.house.gov,Sharice Davids
+Trahan,Lori,10/27/1973,F,rep,MA,Democrat,https://trahan.house.gov,Lori Trahan
+Pressley,Ayanna,2/3/1974,F,rep,MA,Democrat,https://pressley.house.gov,Ayanna Pressley
+Trone,David,9/21/1955,M,rep,MD,Democrat,https://trone.house.gov,David Trone
+Slotkin,Elissa,7/10/1976,F,rep,MI,Democrat,https://slotkin.house.gov,Elissa Slotkin
+Levin,Andy,8/1/1960,M,rep,MI,Democrat,https://andylevin.house.gov,Andy Levin
+Stevens,Haley,6/24/1983,F,rep,MI,Democrat,https://stevens.house.gov,Haley Stevens
+Tlaib,Rashida,7/24/1976,F,rep,MI,Democrat,https://tlaib.house.gov,Rashida Tlaib
+Hagedorn,Jim,8/4/1962,M,rep,MN,Republican,https://hagedorn.house.gov,Jim Hagedorn
+Craig,Angie,2/14/1972,F,rep,MN,Democrat,https://craig.house.gov,Angie Craig
+Phillips,Dean,1/20/1969,M,rep,MN,Democrat,https://phillips.house.gov,Dean Phillips
+Omar,Ilhan,10/4/1981,F,rep,MN,Democrat,https://omar.house.gov,Ilhan Omar
+Stauber,Pete,5/10/1966,M,rep,MN,Republican,https://stauber.house.gov,Pete Stauber
+Guest,Michael,2/4/1970,M,rep,MS,Republican,https://guest.house.gov,Michael Guest (politician)
+Armstrong,Kelly,10/8/1976,M,rep,ND,Republican,https://armstrong.house.gov,Kelly Armstrong
+Pappas,Chris,6/4/1980,M,rep,NH,Democrat,https://pappas.house.gov,Chris Pappas (politician)
+Van Drew,Jefferson,2/23/1953,M,rep,NJ,Republican,https://vandrew.house.gov,Jeff Van Drew
+Kim,Andy,7/12/1982,M,rep,NJ,Democrat,https://kim.house.gov,Andy Kim (politician)
+Malinowski,Tom,9/23/1965,M,rep,NJ,Democrat,https://malinowski.house.gov,Tom Malinowski
+Sherrill,Mikie,1/19/1972,F,rep,NJ,Democrat,https://sherrill.house.gov,Mikie Sherrill
+Haaland,Debra,12/2/1960,F,rep,NM,Democrat,https://haaland.house.gov,Deb Haaland
+Torres Small,Xochitl,11/15/1984,F,rep,NM,Democrat,https://torressmall.house.gov,Xochitl Torres Small
+Lee,Susie,11/7/1966,F,rep,NV,Democrat,https://susielee.house.gov,Susie Lee
+Rose,Max,11/28/1986,M,rep,NY,Democrat,https://maxrose.house.gov,Max Rose
+Ocasio-Cortez,Alexandria,10/13/1989,F,rep,NY,Democrat,https://ocasio-cortez.house.gov,Alexandria Ocasio-Cortez
+Delgado,Antonio,1/19/1977,M,rep,NY,Democrat,https://delgado.house.gov,Antonio Delgado (politician)
+Brindisi,Anthony,11/22/1978,M,rep,NY,Democrat,https://brindisi.house.gov,Anthony Brindisi
+Gonzalez,Anthony,9/19/1984,M,rep,OH,Republican,https://anthonygonzalez.house.gov,Anthony Gonzalez
+Horn,Kendra,6/9/1976,F,rep,OK,Democrat,https://horn.house.gov,Kendra Horn
+Dean,Madeleine,6/6/1959,F,rep,PA,Democrat,https://dean.house.gov,Madeleine Dean
+Houlahan,Chrissy,6/5/1967,F,rep,PA,Democrat,https://houlahan.house.gov,Chrissy Houlahan
+Meuser,Daniel,2/10/1964,M,rep,PA,Republican,https://meuser.house.gov,Dan Meuser
+Joyce,John,2/8/1957,M,rep,PA,Republican,https://johnjoyce.house.gov,John Joyce (American politician)
+Reschenthaler,Guy,4/17/1983,M,rep,PA,Republican,https://reschenthaler.house.gov,Guy Reschenthaler
+Cunningham,Joe,5/26/1982,M,rep,SC,Democrat,https://cunningham.house.gov,Joe Cunningham (American politician)
+Timmons,William,4/30/1984,M,rep,SC,Republican,https://timmons.house.gov,William Timmons
+Johnson,Dusty,9/30/1976,M,rep,SD,Republican,https://dustyjohnson.house.gov,Dusty Johnson
+Burchett,Tim,8/25/1964,M,rep,TN,Republican,https://burchett.house.gov,Tim Burchett
+Rose,John,2/23/1965,M,rep,TN,Republican,https://johnrose.house.gov,John Rose (Tennessee politician)
+Green,Mark,11/8/1964,M,rep,TN,Republican,https://markgreen.house.gov,Mark E. Green
+Crenshaw,Dan,3/14/1984,M,rep,TX,Republican,https://crenshaw.house.gov,Dan Crenshaw
+Taylor,Van,8/1/1972,M,rep,TX,Republican,https://vantaylor.house.gov,Van Taylor
+Gooden,Lance,12/1/1982,M,rep,TX,Republican,https://gooden.house.gov,Lance Gooden
+Wright,Ron,4/8/1953,M,rep,TX,Republican,https://wright.house.gov,Ron Wright (politician)
+Fletcher,Lizzie,2/13/1975,F,rep,TX,Democrat,https://fletcher.house.gov,Lizzie Fletcher
+Escobar,Veronica,9/15/1969,F,rep,TX,Democrat,https://escobar.house.gov,Veronica Escobar
+Roy,Chip,8/7/1972,M,rep,TX,Republican,https://roy.house.gov,Chip Roy
+Garcia,Sylvia,9/6/1950,F,rep,TX,Democrat,https://sylviagarcia.house.gov,Sylvia Garcia
+Allred,Colin,4/15/1983,M,rep,TX,Democrat,https://allred.house.gov,Colin Allred
+McAdams,Ben,12/5/1974,M,rep,UT,Democrat,https://mcadams.house.gov,Ben McAdams
+Luria,Elaine,8/15/1975,F,rep,VA,Democrat,https://luria.house.gov,Elaine Luria
+Riggleman,Denver,3/1/1970,M,rep,VA,Republican,https://riggleman.house.gov,Denver Riggleman
+Cline,Ben,2/29/1972,M,rep,VA,Republican,https://cline.house.gov,Ben Cline
+Spanberger,Abigail,8/7/1979,F,rep,VA,Democrat,https://spanberger.house.gov,Abigail Spanberger
+Wexton,Jennifer,5/27/1968,F,rep,VA,Democrat,https://wexton.house.gov,Jennifer Wexton
+Schrier,Kim,8/23/1968,F,rep,WA,Democrat,https://schrier.house.gov,Kim Schrier
+Steil,Bryan,3/30/1981,M,rep,WI,Republican,https://steil.house.gov,Bryan Steil
+Miller,Carol,11/4/1950,F,rep,WV,Republican,https://miller.house.gov,Carol Miller (politician)
+Scott,Rick,12/1/1952,M,sen,FL,Republican,https://www.rickscott.senate.gov,Rick Scott
+Braun,Mike,3/24/1954,M,sen,IN,Republican,https://www.braun.senate.gov,Mike Braun
+Hawley,Joshua,12/31/1979,M,sen,MO,Republican,https://www.hawley.senate.gov,Josh Hawley
+Romney,Mitt,3/12/1947,M,sen,UT,Republican,https://www.romney.senate.gov,Mitt Romney
+Golden,Jared,7/25/1982,M,rep,ME,Democrat,https://golden.house.gov,Jared Golden
+Keller,Fred,10/23/1965,M,rep,PA,Republican,https://keller.house.gov,Fred Keller (politician)
+Bishop,Dan,7/1/1964,M,rep,NC,Republican,https://danbishop.house.gov/,Dan Bishop
+Murphy,Gregory,3/5/1963,M,rep,NC,Republican,https://gregmurphy.house.gov/,Greg Murphy (politician)
+Loeffler,Kelly,11/27/1970,F,sen,GA,Republican,https://www.loeffler.senate.gov,Kelly Loeffler
+Mfume,Kweisi,10/24/1948,M,rep,MD,Democrat,,Kweisi Mfume
+Tiffany,Thomas,12/30/1957,M,rep,WI,Republican,,Tom Tiffany
+Garcia,Mike,4/24/1976,M,rep,CA,Republican,,Mike Garcia (politician)
+Jacobs,Chris,11/28/1966,M,rep,NY,Republican,,Chris Jacobs (politician)
+Kelly,Mark,2/21/1964,M,sen,AZ,Democrat,https://www.kelly.senate.gov,Mark Kelly
+Hall,Kwanza,5/1/1971,M,rep,GA,Democrat,https://hall.house.gov/,Kwanza Hall
